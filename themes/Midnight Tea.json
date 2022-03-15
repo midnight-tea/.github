@@ -395,14 +395,6 @@
 			}
 		},
 		{
-			"description": "Responsible for constants, for example `nullptr`",
-			"name": "Constants",
-			"scope": "constant",
-			"settings": {
-				"foreground": "#FAB795"
-			}
-		},
-		{
 			"description": "Responsible for comments",
 			"name": "Comments",
 			"scope": [
@@ -426,6 +418,17 @@
 			"description": "Responsible for things like [[maybe_unused]]",
 			"name": "Attributes",
 			"scope": "support.other.attribute.cpp",
+			"settings": {
+				"foreground": "#FAB795"
+			}
+		},
+		{
+			"description": "Responsible for constants, for example `nullptr`",
+			"name": "Constants",
+			"scope": [
+				"constant",
+				"variable.language"
+			],
 			"settings": {
 				"foreground": "#FAB795"
 			}
