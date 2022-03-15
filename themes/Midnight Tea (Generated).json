@@ -426,7 +426,7 @@
       "name": "C operator assignment",
       "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
       "settings": {
-        "foreground": "#b877db"
+        "foreground": "#a9afb3"
       }
     },
     {
@@ -440,7 +440,7 @@
       "name": "Other punctuation .c",
       "scope": "punctuation.separator.c,punctuation.separator.cpp",
       "settings": {
-        "foreground": "#b877db"
+        "foreground": "#a9afb3"
       }
     },
     {
@@ -701,7 +701,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#a9afb3"
+        "foreground": "#25B0BC"
       }
     },
     {
@@ -1844,7 +1844,7 @@
       }
     }
   ],
-"colors": {
+  "colors": {
 		"foreground": "#a9afb3",
 		"focusBorder": "#00000000",
 		"selection.background": "#41495b",
@@ -1863,11 +1863,11 @@
 		"sideBarSectionHeader.border": "#00000000",
 		"sideBarTitle.foreground": "#a9afb3",
 		"sideBar.border": "#00000000",
-		"list.inactiveSelectionBackground": "#333544",
+		"list.inactiveSelectionBackground": "#33354462",
 		"list.inactiveSelectionForeground": "#fdf0ed",
 		"list.hoverBackground": "#252731",
 		"list.hoverForeground": "#a9afb3",
-		"list.activeSelectionBackground": "#41495b",
+		"list.activeSelectionBackground": "#33354462",
 		"list.activeSelectionForeground": "#fdf0ed",
 		"tree.indentGuidesStroke": "#252731",
 		"list.dropBackground": "#252731",
@@ -1904,8 +1904,8 @@
 		"menu.selectionBorder": "#00000000",
 		"menu.separatorBackground": "#252731",
 		"menu.border": "#00000000",
-		"button.background": "#41495b",
-		"button.foreground": "#fdf0ed",
+		"button.background": "#FAB795",
+		"button.foreground": "#1C1E26",
 		"button.hoverBackground": "#333544",
 		"button.secondaryForeground": "#a9afb3",
 		"button.secondaryBackground": "#252731",
