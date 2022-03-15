@@ -222,6 +222,7 @@
 		"editorHoverWidget.foreground": "#a9afb3",
 		"editorHoverWidget.background": "#1a1c23",
 		"editorHoverWidget.border": "#252731",
+		"textLink.activeForeground": "#F09483",
 		"peekView.border": "#252731",
 		"peekViewEditor.background": "#252731",
 		"peekViewEditorGutter.background": "#252731",
