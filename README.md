@@ -14,4 +14,6 @@
 
 <div align="center"> 
     <img src="assets/palette.png" />
+    <hr />
+    <img src="assets/vscode.png" />
 </div> 
