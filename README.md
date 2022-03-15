@@ -16,4 +16,8 @@
     <img src="assets/palette.png" />
     <hr />
     <img src="assets/vscode.png" />
+    <hr />
+    <img src="assets/konsole.png" />
+    <hr />
+    <img src="assets/dolphin.png" />
 </div> 
