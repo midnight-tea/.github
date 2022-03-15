@@ -1,0 +1,30 @@
+{
+    "name": "midnight-tea",
+    "displayName": "Midnight Tea",
+    "description": "A dark, warm theme for those who work at night",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Tea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Tea.json"
+            },
+            {
+                "label": "Midnight Tea (Generated)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Tea (Generated).json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Curve/midnight-tea"
+      }
+}
