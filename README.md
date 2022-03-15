@@ -13,5 +13,5 @@
 ---
 
 <div align="center"> 
-    <img src="assets/palette.svg" />
+    <img src="assets/palette.png" />
 </div> 

@@ -26,5 +26,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Curve/midnight-tea"
-      }
+    },
+    "dependencies": {
+        "vsce": "^2.7.0"
+    }
 }
