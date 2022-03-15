@@ -4,7 +4,7 @@
     "icon": "assets/logo.png",
     "displayName": "Midnight Tea",
     "description": "A dark, warm theme for those who work at night",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.46.0"
     },
