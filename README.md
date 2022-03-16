@@ -7,17 +7,12 @@
 <br/>
 
 <p align="center"> 
-    A dark, warm theme for those who work at night
+   🍵 A dark, warm theme for those who work at night
 </p>
 
 ---
 
 <div align="center"> 
-    <img src="assets/palette.png" />
+    <img src="assets/palette.svg" />
     <hr />
-    <img src="assets/vscode.png" />
-    <hr />
-    <img src="assets/konsole.png" />
-    <hr />
-    <img src="assets/dolphin.png" />
 </div> 

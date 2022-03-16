@@ -1,0 +1,47 @@
+p {
+  font-family: "SF Mono", monospace;
+  font-size: xx-large;
+  text-align: center;
+  color: grey;
+}
+
+.content {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: left;
+  justify-content: center;
+}
+
+.content > div {
+  margin: 10px 15px 10px 15px;
+}
+
+.parent {
+  width: 170px;
+  height: 210px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.parent:nth-child(5n) {
+  break-after: always;
+}
+
+.swatch {
+  border-radius: 5px;
+  width: 100%;
+  height: 78%;
+}
+
+.description {
+  font-family: "SF Mono", monospace;
+  text-align: center;
+  line-height: 50px;
+  font-size: large;
+  margin-top: -10px;
+
+  background-color: #3c3b3d;
+  border-radius: 5px;
+  color: white;
+  height: 27%;
+  width: 100%;
+}
