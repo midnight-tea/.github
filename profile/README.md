@@ -28,3 +28,5 @@
 </div> 
 
 ---
+
+> This theme is strongly inspired by [Daybreak](https://github.com/mtdmali/daybreak-theme)
